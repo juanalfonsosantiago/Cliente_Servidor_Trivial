@@ -1,0 +1,30 @@
+¿Cual es la capital de Marruecos?
+Rabat
+Casablanca
+Fez
+Tanger
+¿Quien escribió "Poeta en Nueva York"?
+Federico Garcia Lorca
+Miguel Hernandez
+Luis Cernuda
+Vicente Aleixandre
+¿De que pais europeo fue colonia Mozambique?
+Portugal
+Inglaterra
+Francia
+España
+¿Que elemento contienen todos los componentes organicos?
+Carbono
+Hidrogeno
+Oxigeno
+Helio
+¿De que pais se independizo Eslovenia?
+Yugoslavia
+Serbia
+Turquia
+Italia
+¿En que pais se encuentra la peninsula de Yucatan?
+Mexico
+Colombia
+Peru
+Venezuela
